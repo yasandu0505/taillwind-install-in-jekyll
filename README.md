@@ -1,4 +1,4 @@
-# 🎨 Installing Tailwind CSS in Jekyll
+# 🧪 Installing Tailwind CSS in Jekyll
 
 A comprehensive guide to integrate Tailwind CSS into your Jekyll project for a modern, utility-first styling experience.
 
